@@ -1,4 +1,3 @@
-node_modules/
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
